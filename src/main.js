@@ -16,10 +16,10 @@ document.body.append(img)
 document.body.append(img2)
 import './assets/fonts/iconfont.css'
 
-class App {
+class zhangqiang {
   static a = 10
 }
-console.log(App.a)
+console.log(zhangqiang.a)
 // new Vue({
 //   render: (h) => h(App),
 // }).$mount('#app')
